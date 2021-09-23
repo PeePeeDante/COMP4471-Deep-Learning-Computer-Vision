@@ -1,7 +1,7 @@
 # COMP4471-Deep-Learning-Computer-Vision
 
 ## pa1: KNN, SVM, Softmax, Neural Network
-  Raw implementation + Numpy Vectorization for performance optimization
+  Raw implementation + Numpy Vectorization for performance optimization </br>
   Dataset: run cs231n/datasets/get_datasets.py
 
 ## pa2:
