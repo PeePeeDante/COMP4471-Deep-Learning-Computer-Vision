@@ -90,15 +90,15 @@ Feature matching comparison
 
 ### Reference
 </br>
-\[1] Zhenfeng Shao, Min Chen, and Chong Liu. Feature matching for illumination variation images. Journal of Electronic Imaging, 24:033011, 05 2015. </br>
-\[2] Hao Zhou, Torsten Sattler, and David Jacobs. Evaluating Local Features for Day-Night Matching, pages 724–736. 11 2016. </br>
-\[3] Mihai Dusmanu, Ignacio Rocco, Tomas Pajdla, Marc Pollefeys, Josef Sivic, Akihiko Torii, and Torsten Sattler. D2-net: A trainable cnn for joint detection and description of local features, 2019. </br>
-\[4] Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros. Unpaired image-to-image translation using cycleconsistent adversarial networks, 2020. </br>
-\[5] Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. Image-to-image translation with conditional adversarial networks, 2018. </br>
-\[6] Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung Kwon Lee, and Jiwon Kim. Learning to discover cross-domain relations with generative adversarial networks, 2017.</br> 
-\[7] Yunjey Choi, Minje Choi, Munyoung Kim, Jung-Woo Ha, Sunghun Kim, and Jaegul Choo. Stargan: Unified generative adversarial networks for multi-domain image-to-image translation, 2018. </br>
-\[8] Yangyun Shen, Runnan Huang, and Wenkai Huang. Gdstargan: Multi-domain image-to-image translation in garment design. PLOS ONE, 15(4):1–15, 04 2020. </br>
-\[9] Sefik Eskimez, Dimitrios Dimitriadis, Kenichi Kumatani, and Robert Gmyr. One-shot voice conversion with speakeragnostic stargan. pages 1334–1338, 08 2021. </br>
-\[10] A. Torii, R. Arandjelovic, J. Sivic, M. Okutomi, and T. Pajdla. 24/7 place recognition by view synthesis. In CVPR, 2015. </br>
-\[11] Aachen day-night dataset, 2021. </br>
-\[12] Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, and Trevor Darrell. Cycada: Cycle-consistent adversarial domain adaptation, 2017. </br>
+[1] Zhenfeng Shao, Min Chen, and Chong Liu. Feature matching for illumination variation images. Journal of Electronic Imaging, 24:033011, 05 2015. </br>
+[2] Hao Zhou, Torsten Sattler, and David Jacobs. Evaluating Local Features for Day-Night Matching, pages 724–736. 11 2016. </br>
+[3] Mihai Dusmanu, Ignacio Rocco, Tomas Pajdla, Marc Pollefeys, Josef Sivic, Akihiko Torii, and Torsten Sattler. D2-net: A trainable cnn for joint detection and description of local features, 2019. </br>
+[4] Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros. Unpaired image-to-image translation using cycleconsistent adversarial networks, 2020. </br>
+[5] Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. Image-to-image translation with conditional adversarial networks, 2018. </br>
+[6] Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung Kwon Lee, and Jiwon Kim. Learning to discover cross-domain relations with generative adversarial networks, 2017.</br> 
+[7] Yunjey Choi, Minje Choi, Munyoung Kim, Jung-Woo Ha, Sunghun Kim, and Jaegul Choo. Stargan: Unified generative adversarial networks for multi-domain image-to-image translation, 2018. </br>
+[8] Yangyun Shen, Runnan Huang, and Wenkai Huang. Gdstargan: Multi-domain image-to-image translation in garment design. PLOS ONE, 15(4):1–15, 04 2020. </br>
+[9] Sefik Eskimez, Dimitrios Dimitriadis, Kenichi Kumatani, and Robert Gmyr. One-shot voice conversion with speakeragnostic stargan. pages 1334–1338, 08 2021. </br>
+[10] A. Torii, R. Arandjelovic, J. Sivic, M. Okutomi, and T. Pajdla. 24/7 place recognition by view synthesis. In CVPR, 2015. </br>
+[11] Aachen day-night dataset, 2021. </br>
+[12] Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, and Trevor Darrell. Cycada: Cycle-consistent adversarial domain adaptation, 2017. </br>
