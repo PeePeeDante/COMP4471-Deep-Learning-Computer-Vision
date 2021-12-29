@@ -45,16 +45,16 @@ Algorithm Pipeline
 <img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-000400-Y-X.png"  width="300"> 
 
 \[Training 2000 iterations...\]
-<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-0002000-Y-X.png"  width="300"> 
+<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-002000-Y-X.png"  width="300"> 
 
 \[Training 3600 iterations...\]
-<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-0003600-Y-X.png"  width="300"> 
+<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-003600-Y-X.png"  width="300"> 
 
 \[Training 6400 iterations...\]
-<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-0006400-Y-X.png"  width="300"> 
+<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-006400-Y-X.png"  width="300"> 
 
 \[Training 13600 iterations...\]
-<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-00013600-Y-X.png"  width="300"> 
+<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-013600-Y-X.png"  width="300"> 
 
 ### GAN Results vs OpenCV brightness 
 
