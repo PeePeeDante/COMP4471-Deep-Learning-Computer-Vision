@@ -18,6 +18,8 @@
 
 ### Proposed Algorithm
 
+An intuitive algorithm that performs day-to-night (or night-to-day) transformation is proposed in this study, in which the transformed images and the other night/day photos will serve as the input for the downstream matching task. For the image transformation stage, a CycleGAN model is used for training (with some detailed modifications, please refer to the report pdf) since it is known for learning style transferring between images. Its strength is exemplified by mapping horses to zebras, Van Gogh’s painting to Monet’s, and, in our case, day images to night images. Our CycleGAN model will be trained on the day images and night images from the 24/7 Tokyo dataset \[10\]. For the feature matching algorithm, the pre-trained D2-net model is chosen, given its excellent performance in day-night localization tasks. The Aachen Day-Night dataset \[11\] is used for our final evaluation, where a night query image is paired with a transformed-day image and a transformednight query is paired with a day image. In the end, the results from the two pipelines will be aligned, and those with a matching score above a given threshold will be retained.
+
 Algorithm Pipeline </br>
 <img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/pipeline.png"  width="300"> </br>
 
@@ -28,4 +30,6 @@ Algorithm Pipeline </br>
 ### GAN Results vs OpenCV brightness 
 
 ### Feature Matching Results
+
+### Reference
   
