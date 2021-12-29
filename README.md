@@ -62,6 +62,17 @@ Algorithm Pipeline
 
 ### GAN Results vs OpenCV brightness 
 
+This section shows the generated image comparison from GAN compared with brightness modification using OpenCV.
+
+</br>
+<p align="center">
+<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/result_compare.png"  width="700"> 
+</br>
+Generated image comparison
+</br>
+  
+</p>
+
 ### Feature Matching Results
 
 ### Reference
