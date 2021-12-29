@@ -26,10 +26,12 @@ An intuitive algorithm that performs day-to-night (or night-to-day) transformati
 </br>
 CycleGAN 
 </br>
+</br>
 
 <img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/D2net.png"  width="500"> 
 </br>
 D2Net
+</br>
 </br>
 
 <img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/pipeline.png"  width="300"> 
@@ -40,7 +42,7 @@ Algorithm Pipeline
 </p>
 </br>
 
-### GAN Training Results 
+### GAN Training Results (Day -> Night)
 
 \[Training 400 iterations...\] </br>
 <img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/sample-000400-Y-X.png"  width="300"> 
