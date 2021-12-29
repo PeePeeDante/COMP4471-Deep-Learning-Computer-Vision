@@ -80,7 +80,7 @@ This section shows the feature matching results from GAN compared with brightnes
 
 </br>
 <p align="center">
-<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/matching_compare.png"  width="800"> 
+<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/matching_compare.png"  width="700"> 
 </br>
 Feature matching comparison
 </br>
