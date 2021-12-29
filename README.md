@@ -19,7 +19,7 @@
 ### Proposed Algorithm
 
 Algorithm Pipeline </br>
-<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/pictures/pipeline.png"  width="300"> </br>
+<img src="https://github.com/PeePeeDante/COMP4471-Deep-Learning-Computer-Vision/blob/main/pictures/pipeline.png"  width="300"> </br>
 
 
 
